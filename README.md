@@ -2,6 +2,8 @@
 
 <img width="100%" height="auto" alt="image" src="https://github.com/user-attachments/assets/15e1e138-b8dd-447f-97b2-31a2c4cacf3c" />
 
+<img width="100%" height="auto" alt="image" src="https://github.com/user-attachments/assets/fcb51696-cea3-4ac6-b876-75ab3586cb0d" />
+
 ## Особенности проекта
 
 **Локальный доступ:** проект рассчитан на работу в локальной сети (LAN). Это позволяет открывать сайт на разных устройствах (телефон, планшет, ноутбук) в рамках одной Wi‑Fi‑сети.
